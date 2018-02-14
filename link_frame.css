@@ -1,0 +1,14 @@
+.l1{
+	max-width: 100%;
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+.l2{
+	margin-right: 10px;
+	margin-left: 4px;
+	font-family: 'Alice';
+	font-size: 15px;
+	color: Navy ;
+	text-decoration: none;
+}

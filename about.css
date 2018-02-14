@@ -1,0 +1,42 @@
+body{
+			max-width: 100%;
+			height: 1105px;
+			background-image: url("college-wallpaper.jpg");
+			background-size: 140% 100%;
+			max-width: 100%
+		}
+		.h1{
+			background-color: LightSlateGrey ;
+			opacity: 0.6;
+			color: white;
+			margin-top: 0px;
+			padding-left: 2%;
+			margin-left: 5px;
+			margin-right: 5px;
+			font-family: 'Clicker Script';
+			font-size: 50px;
+			max-width: 100%;
+		}
+		.h2{
+			margin-top: 2px;
+
+			margin-left: 25px;
+			padding-top: 15px;
+			padding-left: 10px;
+			padding-right: 7px;
+			max-width: 90%;
+			max-height: 570px;
+			font-family: 'Clicker Script';
+			font-size: 30px;
+			color: MediumTurquoise ;
+		}
+		.h3{
+			
+			margin-right: 10px;
+			padding-top: 5px;
+			
+			
+			font-family: 'Balthazar';
+			font-size: 25px;
+			color: white;
+		}
